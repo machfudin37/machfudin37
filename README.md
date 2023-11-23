@@ -2,7 +2,7 @@
 ## About me:
 - 🌱  I'm currently learning PHP, Python and Dart.
 - 👯 I'm looking to collaborate as a Web Developer.
-- 🤔 🤔 I'm looking for suggestions for Front-End Developer and Back-End Developer.
+- 🤔 I'm looking for suggestions for Front-End Developer and Back-End Developer.
 - 💬 Ask me about anything
 - 📫 How to reach me: machfudin37@gmail.com
 
@@ -36,8 +36,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/machfudin-‎-a85b392a0/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/machfudin-‎-a85b392a0/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/machfudin-a85b392a0/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/machfudin-a85b392a0/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
