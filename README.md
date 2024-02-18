@@ -1,33 +1,20 @@
-# Hi there, I'm Machfudin 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=machfudin37.machfudin37" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Machfudin!;" />
+</h1>
+
+---
+
 ## About me:
-- 🌱  I'm currently learning PHP, Python and Dart.
+- 🌱  I'm currently learning PHP, Python and Javascript.
 - 👯 I'm looking to collaborate as a Web Developer.
 - 🤔 I'm looking for suggestions for Front-End Developer and Back-End Developer.
-- 💬 Ask me about anything
-- 📫 How to reach me: machfudin37@gmail.com
-
-## Education:
-
-#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js) | Bachelor of Information Systems  | Jakarta `2021-Present`
-   - 
- #### 2. [SMK Dinamika Pembangunan 1 Jakarta](https://smkdp1jkt.sch.id/) | TKJ | Jakarta `2018-2021`
-   - 
-   
----
-
-### Languages and Tools:
-
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="50px" src="https://github.com/machfudin37/machfudin37/blob/main/img/php-logo.svg" style="padding-right:0px;" />
-<img align="left" alt="Dart" width="30px" src="https://github.com/machfudin37/machfudin37/blob/main/img/logo_dart_1080px_clr.png" style="padding-right:0px;" />
-
-<br />
-<br />
+- 💬 Ask me about anything [here](https://github.com/machfudin37/machfudin37/issues)
+- 📫 How to reach me : [Email](machfudin37@gmail.com)
 
 ---
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](#gh-light-mode-only)
@@ -41,4 +28,47 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
+
+---
+
+## Education:
+
+#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js) | Bachelor of Information Systems | Jakarta |`2021-Present`
+#### 2. [SMK Dinamika Pembangunan 1 Jakarta](https://smkdp1jkt.sch.id/) | Computer Engineering and Networking | Jakarta | `2018-2021`
+   
+---
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;" />](#gh-dark-mode-only)
+
+<br>
+<br>
+
+---
+## My Contributions :
+<br>
+<img alt="snake eating my contributions" src="hhttps://raw.githubusercontent.com/machfudin37/machfudin37/832bfdc2b325711590e1c06e1a4d129bb2dfdd16/github-contribution-grid-snake.svg" />
+  
+ <br/><br/><br/>
+
+---
+
+## Stats :
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=machfudin37&theme=react&hide_border=false" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=machfudin37&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+<br/>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machfudin37&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+
 
