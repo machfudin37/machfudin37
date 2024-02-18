@@ -40,18 +40,22 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][]
+[<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;" />](#gh-dark-mode-only)
+
 
 <br>
 <br>
@@ -59,16 +63,18 @@
 ---
 ## My Contributions :
 <br>
-<img alt="snake eating my contributions" src="hhttps://raw.githubusercontent.com/machfudin37/machfudin37/832bfdc2b325711590e1c06e1a4d129bb2dfdd16/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/machfudin37/machfudin37/595172194ef4c802f693b9bb4dba9edbeca52d9a/github-contribution-grid-snake.svg" />
   
  <br/><br/><br/>
 
 ---
 
 ## Stats :
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=machfudin37&theme=react&hide_border=false" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=machfudin37&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
-<br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machfudin37&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+<div>
+<img width="440px" src="https://github-readme-stats.vercel.app/api?username=machfudin37&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+<img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machfudin37&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+</div>
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=machfudin37&theme=react" alt="activity graph"/>
+<img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=machfudin37&theme=react&hide_border=false" alt="streak stats"/>
 
 
