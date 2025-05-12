@@ -60,18 +60,6 @@
 
 <br>
 <br>
-
-
----
-
-## Stats :
-<div>
-<img width="440px" src="https://github-readme-stats.vercel.app/api?username=machfudin37&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
-<img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machfudin37&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
-<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=machfudin37&theme=react" alt="activity graph"/>
-<img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=machfudin37&theme=react&hide_border=false" alt="streak stats"/>
-</div>
-
 ---
 ## My Contributions :
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/machfudin37/machfudin37/595172194ef4c802f693b9bb4dba9edbeca52d9a/github-contribution-grid-snake.svg" />
