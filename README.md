@@ -32,7 +32,7 @@
 
 ## Education:
 
-#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js) | Bachelor of Information Systems | Jakarta |`2021-Present`
+#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js) | Bachelor of Information Systems | Jakarta |`2021-2024`
 #### 2. [SMK Dinamika Pembangunan 1 Jakarta](https://smkdp1jkt.sch.id/) | Computer Engineering and Networking | Jakarta | `2018-2021`
    
 ---
