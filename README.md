@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Machfudin!;" />
 </h1>
@@ -6,7 +5,8 @@
 ---
 
 ## About me:
-- 🌱  I'm currently learning PHP, Python and Javascript.
+
+- 🌱 I'm currently learning PHP, Python and Javascript.
 - 👯 I'm looking to collaborate as a Web Developer.
 - 🤔 I'm looking for suggestions for Front-End Developer and Back-End Developer.
 - 💬 Ask me about anything [here](https://github.com/machfudin37/machfudin37/issues)
@@ -33,8 +33,9 @@
 ## Education:
 
 #### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js) | Bachelor of Information Systems | Jakarta |`2021-2024`
+
 #### 2. [SMK Dinamika Pembangunan 1 Jakarta](https://smkdp1jkt.sch.id/) | Computer Engineering and Networking | Jakarta | `2018-2021`
-   
+
 ---
 
 ### Languages and Tools:
@@ -57,13 +58,11 @@
 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;" />](#gh-dark-mode-only)
 
-
 <br>
 <br>
 
 ---
 
 ## My Contributions :
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/machfudin37/machfudin37/595172194ef4c802f693b9bb4dba9edbeca52d9a/github-contribution-grid-snake.svg" />
-  
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/machfudin37/machfudin37/output/github-contribution-grid-snake.svg" />
