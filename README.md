@@ -6,11 +6,12 @@
 
 ## About me:
 
-- 🌱 I'm currently learning PHP, Python and Javascript.
-- 👯 I'm looking to collaborate as a Web Developer.
-- 🤔 I'm looking for suggestions for Front-End Developer and Back-End Developer.
-- 💬 Ask me about anything [here](https://github.com/machfudin37/machfudin37/issues)
-- 📫 How to reach me : [Email](machfudin37@gmail.com)
+- 💻 I have experience with Python, JavaScript, and PHP, and I love turning ideas into real, working applications.
+- 🌱 I'm currently learning and deepening my skills in PHP, Python, and JavaScript.
+- 👯 I'm looking to collaborate as a Web Developer in a dynamic and growth-oriented team.
+- 🤝 I'm open to suggestions, feedback, and learning opportunities in both Front-End and Back-End development.
+- 💬 Ask me anything [here](https://github.com/machfudn/machfudn/issues)
+- 📫 How to reach me: [Contact App](https://kontak-saya.pages.dev/)
 
 ## Statistic :
 
