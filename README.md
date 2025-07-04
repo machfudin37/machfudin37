@@ -7,7 +7,7 @@
 ## About me:
 
 - 💻 I have experience with Python, JavaScript, and PHP, and I love turning ideas into real, working applications.
-- 🌱 I'm currently learning and deepening my skills in PHP, Python, and JavaScript.
+- 🌱 I'm actively learning and deepening my skills in PHP, Python, and JavaScript, and I'm always eager to learn new things to hone my adaptability.
 - 👯 I'm looking to collaborate as a Web Developer in a dynamic and growth-oriented team.
 - 🤝 I'm open to suggestions, feedback, and learning opportunities in both Front-End and Back-End development.
 - 💬 Ask me anything [here](https://github.com/machfudn/machfudn/issues)
